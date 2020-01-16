@@ -214,5 +214,5 @@ implementation "com.android.support:recyclerview-v7:28.0.0"
 in the app level dependencies
 
 ### Documentation
-
+cgjhkj
 The documentation for appbase-search-widget library is hosted on [GitHub pages](https://harsh-2711.github.io/appbase-search-widget/)
